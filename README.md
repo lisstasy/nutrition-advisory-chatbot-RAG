@@ -6,7 +6,7 @@ Welcome to the Nutrition Advisor Chatbot project! This chatbot is designed to pr
 
 The history-aware conversational chatbot is powered by Retrieval-Augmented Generation (RAG). The chatbot is designed to engage users in discussions about nutrition, gut health, and biotics (prebiotics, probiotics, postbiotics). It consists of two applications (ADMIN and USER) deployed using Docker containers for scalability and consistency across environments and Streamlit demos. It is built using a combination of AWS services (Amazon Bedrock and Amazon S3), FAISS with mmr reranking approach for vector storage and retrieval, LangChain’s conversational and memory chains, Docker for containerization, and Streamlit for interactive demos.
 
-[![My GIF](https://github.com/lisstasy/nutrition-advisory-chatbot-RAG/blob/main/index.html)](https://github.com/lisstasy/nutrition-advisory-chatbot-RAG/blob/main/index.html)
+[![GIF](https://github.com/lisstasy/nutrition-advisory-chatbot-RAG/blob/main/index.html)]
 
 P.S. You can adjust this project for your needs by uploading your PDF files via the Admin application, and modifying prompts in a user.py file.
 
